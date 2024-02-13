@@ -1,1 +1,49 @@
 /* Add screen styles below */
+body {
+    background: #F0F2F1;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    background: #156087;
+    color: #F0F2F1;
+    margin: 0;
+    padding: 20px;
+    padding-left: 30px;
+    border-radius:0;
+    font-size: 54px;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+h2 {
+    font-size: 54px;
+    line-height: 64px;
+    font-weight: bold;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 100px;
+    margin-bottom: 140px;
+    height: 150px;
+    text-align: center;
+  }
+
+img {
+    float: left; 
+    margin-right: 30px;
+    padding-left: 375px;
+}
+
+h3 {
+    color: #156087;
+    font-size: 36px;
+    line-height: 22px;
+}
+
+p {
+    width: 1120px;
+    height: 150px;
+    font-size: 18px;
+    line-height: 26px;
+}
